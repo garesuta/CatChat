@@ -19,7 +19,7 @@
             android:id="@+id/nav_trash"
             android:icon="@android:drawable/ic_menu_delete"
             android:title="@string/nav_trash"/>
-        </group>
+    </group>
     <item android:title="@string/nav_support">
         <menu>
             <item
