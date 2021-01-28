@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">CatChat</string>
+    <string name="user_name">spot@catchat.com</string>
+    <string name="nav_inbox">Message</string>
+    <string name="nav_draft">Draft</string>
+    <string name="nav_sent">Sent</string>
+    <string name="nav_trash">In da trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Halpp</string>
+    <string name="nav_feedback">Give us your fucking feedback!</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
